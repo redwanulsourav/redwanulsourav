@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 📫 How to reach me: redwanul.sourav@gmail.com
-
+- 👯 I’m looking to collaborate on: Android projects, Backend projects
 <!--
 **redwanulsourav/redwanulsourav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
